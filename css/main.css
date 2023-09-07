@@ -24,7 +24,7 @@ Text Domain: developer
 *	 06.2 - Image Hover Effect
 * 07.0 - More About Me
 * 	 07.1 - Animated Number
-* 08.0 - Testimonials
+* 08.0 - testimonial
 * 	 08.1 - Owl Carousel (http://owlgraphic.com/owlcarousel/)
 * 09.0 - Contact
 *	 09.1 - Social Icon
@@ -468,14 +468,14 @@ ul.numbersList span{
 
 
 /* ///////////////////////////////////////////////////////////////////// 
-//  08 - Testimonials
+//  08 - testimonial
 /////////////////////////////////////////////////////////////////////*/
 
-#testimonials {
+#testimonial {
     padding: 60px 0;
 }
 
-#testimonials .block-heading{
+#testimonial .block-heading{
 	margin-bottom: 0px;
 }
 
@@ -484,7 +484,7 @@ ul.numbersList span{
     margin-top: 20px;
 }
 
-#testimonials .block-heading h1
+#testimonial .block-heading h1
 {
 	color: rgb(0, 129, 129);
 	font-family: 'Milonga', cursive;
@@ -492,18 +492,18 @@ ul.numbersList span{
 	font-size: 55px;
 }
 
-#testimonials .testimonial {
+#testimonial .testimonial {
 	padding: 25px;
 	cursor: -webkit-grab;
 }
 
-#testimonials .testimonial > img {
+#testimonial .testimonial > img {
 	border-radius: 100%;
 	margin-bottom: 15px;
 }
 
 /* ///////////////////////////////////////////////////////////////////// 
-//  08 - Testimonials > Owl Carousel
+//  08 - testimonial > Owl Carousel
 /////////////////////////////////////////////////////////////////////*/
 
 .owl-carousel {
